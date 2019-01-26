@@ -1,0 +1,4 @@
+#Fri Jan 25 22:41:36 EST 2019
+base.0=/Users/lolaabudu/Downloads/android-fundamentals-apps-v2-master/MaterialMe-Resource/app/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex
